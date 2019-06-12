@@ -24,7 +24,7 @@ div#subtitle {
     font-weight: 200;
     line-height: calc( 4vh + 3vw );
     color: #fefef2;
-    text-shadow: 3px 1px 4px #222;
+    text-shadow: 4px 0px 0px #222;
     display: flex;
     flex-direction: column;
     flex-flow: column wrap;
@@ -32,8 +32,8 @@ div#subtitle {
     justify-content: center;
     align-content: center;
     text-align: left;
-    width: auto;
-    height: auto;
+    width: 1800;
+    height: 156;
 }
 
 div#hero {
